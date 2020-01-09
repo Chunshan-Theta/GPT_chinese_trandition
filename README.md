@@ -26,7 +26,8 @@
     --stride 256 \
     > output/result_D005_S16.txt
 ```
-結果：
+結果： [全文](https://github.com/Chunshan-Theta/GPT_chinese_trandition/blob/master/output/result_D005_S16.txt)
+
 ```
 now time: 22:12. Step 86 of piece 99 of epoch 5, loss 2.836132049560547
 now time: 22:12. Step 87 of piece 99 of epoch 5, loss 3.078228235244751
