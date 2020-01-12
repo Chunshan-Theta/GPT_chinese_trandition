@@ -24,6 +24,7 @@
     --warmup_steps 20000 \
     --writer_dir model/tensorboard/ \
     --stride 256 \
+    --raw \
     > output/result_D005_S16.txt
 ```
 結果： [全文](https://github.com/Chunshan-Theta/GPT_chinese_trandition/blob/master/output/result_D005_S16.txt)
